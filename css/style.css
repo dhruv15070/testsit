@@ -13,6 +13,7 @@ hr {
 }
 
 .header {
+  position: relative;
   font-size: 2.5rem;
   font-family: 'Sacramento', cursive;
   background-color: #C3F8FF;
@@ -90,4 +91,10 @@ h3 {
 .profile{
   margin: 15px;
   padding: 15px;
+}
+
+.monkey{
+  width: 25%;
+  float: left;
+  margin: auto 30px auto auto;
 }
